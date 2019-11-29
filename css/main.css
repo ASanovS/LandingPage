@@ -1,0 +1,203 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #222222;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+header {
+    background: url(../img/first-bg.jpg) no-repeat center top / cover;
+    height: 100vh;
+}
+
+.clearfix {
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+.container {
+    width: 930px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin-top: 41px;
+    float: left;
+}
+
+nav {
+    float: right;
+    margin-top: 45px;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 41px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.titles_first {
+    font-size: 40px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 180px;
+}
+
+h1 {
+    font-size: 75px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 15px;
+}
+
+.button {
+    background: #fed136;
+    color: #484543;
+    border-radius: 3px;
+    display: block;
+    width:240px;
+    padding: 20px 0;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 50px auto 0;
+}
+
+.title {
+    padding-top: 115px;
+}
+
+.title h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.title p {
+    color: #777777;
+    text-align: center;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.services {
+    margin-top: 70px;
+}
+
+.services_item {
+    width: 270px;
+    float: left;
+    text-align: center;
+}
+
+.services_item h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+
+}
+
+.services_item p {
+    font-size: 14px;
+    line-height: 1.55em;
+    color: #777777;
+}
+
+.services_item:last-child {
+    float: right;
+}
+
+.services_item:nth-child(2) {
+    margin-left: 60px;
+}
+
+#services {
+    padding-bottom: 120px;
+}
+
+#portfolio {
+    background: #f7f7f7f7;
+    padding-bottom: 120px;
+}
+
+.works {
+    margin-top: 70px;
+}
+.works img {
+    float: left;
+}
+
+.works img:last-child {
+    float: right;
+}
+
+.works img:nth-child(2) {
+    margin-left: 30px;
+}
+
+#about_us {
+    padding-bottom: 120px;
+}
+
+.about_item h2 {
+    text-transform: uppercase;
+}
+
+.about{
+    display: flex;
+    margin-top: 80px;
+}
+
+.about_item_text_right {
+    width: 350px;
+    text-align: right;
+}
+
+.about_item_img_right {
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.about_item_img_left {
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-left: 380px;
+}
+
+.about_item_text_left {
+    width: 350px;
+    text-align: left;
+}
+
+footer {
+    size: 15px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
