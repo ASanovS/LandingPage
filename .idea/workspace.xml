@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e646b4a-3db0-49e8-af71-0645f8ab15da" name="Default Changelist" comment="" />
+    <list default="true" id="2e646b4a-3db0-49e8-af71-0645f8ab15da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UFO0OyETIK8C85CAlathMJn6bA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +28,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,11 +61,21 @@
       <workItem from="1575032045395" duration="2668000" />
       <workItem from="1575040988998" duration="1209000" />
       <workItem from="1575043501071" duration="11128000" />
-      <workItem from="1575063302090" duration="2484000" />
+      <workItem from="1575063302090" duration="3431000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="284" width="270" height="199" key="Github.ShareDialog" timestamp="1575066133261">
+      <screen x="0" y="27" width="1366" height="707" />
+    </state>
+    <state x="543" y="284" width="270" height="199" key="Github.ShareDialog/0.27.1366.707@0.27.1366.707" timestamp="1575066133261" />
+    <state x="209" y="27" key="SettingsEditor" timestamp="1575066097514">
+      <screen x="0" y="27" width="1366" height="707" />
+    </state>
+    <state x="209" y="27" key="SettingsEditor/0.27.1366.707@0.27.1366.707" timestamp="1575066097514" />
   </component>
 </project>
